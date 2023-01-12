@@ -9,5 +9,5 @@ const clientes = [
 
     { nome: "Ana", email: "ana@gmail.com", status: true },
 ];
-    
+    console.log("mais uma alterção do git para um commit");
     
